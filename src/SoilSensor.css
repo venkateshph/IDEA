@@ -1,0 +1,11 @@
+.soil-sensor {
+  width: 80px;
+  height: 80px;
+  cursor: grab;
+}
+
+.sensor-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
